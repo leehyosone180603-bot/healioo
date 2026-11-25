@@ -1,0 +1,2 @@
+# 구글 애드센스 ads.txt
+google.com, pub-7143828779500885, DIRECT, f08c47fec0942fa0
