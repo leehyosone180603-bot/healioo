@@ -48,7 +48,7 @@ const POSTS = [
     category: "disease",
     date: "2026-11-25",
     url: "/posts/shingles-early-symptoms.html",
-    image: "",
+    image: "/img/shingles-early-symptoms-1.jpg",
   },
   {
     id: "radish-mu-benefits",
@@ -58,7 +58,7 @@ const POSTS = [
     category: "food",
     date: "2026-11-25",
     url: "/posts/radish-mu-benefits.html",
-    image: "",
+    image: "/img/radish-mu-benefits-1.jpg",
   },
   {
     id: "year-end-party-weight",
@@ -68,7 +68,7 @@ const POSTS = [
     category: "diet",
     date: "2026-11-25",
     url: "/posts/year-end-party-weight.html",
-    image: "",
+    image: "/img/year-end-party-weight-1.jpg",
   },
   {
     id: "carbon-monoxide-safety",
@@ -78,7 +78,7 @@ const POSTS = [
     category: "life",
     date: "2026-11-25",
     url: "/posts/carbon-monoxide-safety.html",
-    image: "",
+    image: "/img/carbon-monoxide-safety-1.jpg",
   },
   {
     id: "daily-steps-walking",
@@ -88,7 +88,7 @@ const POSTS = [
     category: "exercise",
     date: "2026-11-25",
     url: "/posts/daily-steps-walking.html",
-    image: "",
+    image: "/img/daily-steps-walking-1.jpg",
   },
   {
     id: "angular-cheilitis-care",
@@ -98,7 +98,7 @@ const POSTS = [
     category: "info",
     date: "2026-11-25",
     url: "/posts/angular-cheilitis-care.html",
-    image: "",
+    image: "/img/angular-cheilitis-care-1.jpg",
   },
   {
     id: "yuja-tea-benefits",
@@ -108,7 +108,7 @@ const POSTS = [
     category: "food",
     date: "2026-11-25",
     url: "/posts/yuja-tea-benefits.html",
-    image: "",
+    image: "/img/yuja-tea-benefits-1.jpg",
   },
   {
     id: "bells-palsy-vs-stroke",
@@ -118,7 +118,7 @@ const POSTS = [
     category: "disease",
     date: "2026-11-25",
     url: "/posts/bells-palsy-vs-stroke.html",
-    image: "",
+    image: "/img/bells-palsy-vs-stroke-1.jpg",
   },
   {
     id: "winter-ventilation-guide",
@@ -128,7 +128,7 @@ const POSTS = [
     category: "life",
     date: "2026-11-25",
     url: "/posts/winter-ventilation-guide.html",
-    image: "",
+    image: "/img/winter-ventilation-guide-1.jpg",
   },
   {
     id: "intermittent-fasting-16-8",
@@ -138,7 +138,7 @@ const POSTS = [
     category: "diet",
     date: "2026-11-25",
     url: "/posts/intermittent-fasting-16-8.html",
-    image: "",
+    image: "/img/intermittent-fasting-16-8-1.jpg",
   },
   {
     id: "stair-climbing-exercise",
@@ -148,7 +148,7 @@ const POSTS = [
     category: "exercise",
     date: "2026-11-25",
     url: "/posts/stair-climbing-exercise.html",
-    image: "",
+    image: "/img/stair-climbing-exercise-1.jpg",
   },
   {
     id: "night-leg-cramps",
@@ -158,7 +158,7 @@ const POSTS = [
     category: "info",
     date: "2026-11-25",
     url: "/posts/night-leg-cramps.html",
-    image: "",
+    image: "/img/night-leg-cramps-1.jpg",
   },
   {
     id: "sweet-pumpkin-benefits",
@@ -168,7 +168,7 @@ const POSTS = [
     category: "food",
     date: "2026-11-25",
     url: "/posts/sweet-pumpkin-benefits.html",
-    image: "",
+    image: "/img/sweet-pumpkin-benefits-1.jpg",
   },
   {
     id: "cystitis-recurrence-prevention",
@@ -178,7 +178,7 @@ const POSTS = [
     category: "disease",
     date: "2026-11-25",
     url: "/posts/cystitis-recurrence-prevention.html",
-    image: "",
+    image: "/img/cystitis-recurrence-prevention-1.jpg",
   },
   {
     id: "bedding-wash-dust-mites",
@@ -188,7 +188,7 @@ const POSTS = [
     category: "life",
     date: "2026-11-25",
     url: "/posts/bedding-wash-dust-mites.html",
-    image: "",
+    image: "/img/bedding-wash-dust-mites-1.jpg",
   },
   {
     id: "weight-loss-plateau",
@@ -198,7 +198,7 @@ const POSTS = [
     category: "diet",
     date: "2026-11-25",
     url: "/posts/weight-loss-plateau.html",
-    image: "",
+    image: "/img/weight-loss-plateau-1.jpg",
   },
   {
     id: "squat-correct-form",
@@ -208,7 +208,7 @@ const POSTS = [
     category: "exercise",
     date: "2026-11-25",
     url: "/posts/squat-correct-form.html",
-    image: "",
+    image: "/img/squat-correct-form-1.jpg",
   },
   {
     id: "tinnitus-ringing-ears",
@@ -218,7 +218,7 @@ const POSTS = [
     category: "info",
     date: "2026-11-25",
     url: "/posts/tinnitus-ringing-ears.html",
-    image: "",
+    image: "/img/tinnitus-ringing-ears-1.jpg",
   },
   {
     id: "lotus-root-benefits",
@@ -228,7 +228,7 @@ const POSTS = [
     category: "food",
     date: "2026-11-25",
     url: "/posts/lotus-root-benefits.html",
-    image: "",
+    image: "/img/lotus-root-benefits-1.jpg",
   },
   {
     id: "varicose-veins-early-signs",
@@ -238,7 +238,7 @@ const POSTS = [
     category: "disease",
     date: "2026-11-25",
     url: "/posts/varicose-veins-early-signs.html",
-    image: "",
+    image: "/img/varicose-veins-early-signs-1.jpg",
   },
   {
     id: "toothbrush-replacement",
@@ -248,7 +248,7 @@ const POSTS = [
     category: "life",
     date: "2026-11-25",
     url: "/posts/toothbrush-replacement.html",
-    image: "",
+    image: "/img/toothbrush-replacement-1.jpg",
   },
   {
     id: "stop-late-night-snacking",
@@ -258,7 +258,7 @@ const POSTS = [
     category: "diet",
     date: "2026-11-25",
     url: "/posts/stop-late-night-snacking.html",
-    image: "",
+    image: "/img/stop-late-night-snacking-1.jpg",
   },
   {
     id: "plank-correct-form",
@@ -268,7 +268,7 @@ const POSTS = [
     category: "exercise",
     date: "2026-11-25",
     url: "/posts/plank-correct-form.html",
-    image: "",
+    image: "/img/plank-correct-form-1.jpg",
   },
   {
     id: "eyelid-twitching-causes",
@@ -278,7 +278,7 @@ const POSTS = [
     category: "info",
     date: "2026-11-25",
     url: "/posts/eyelid-twitching-causes.html",
-    image: "",
+    image: "/img/eyelid-twitching-causes-1.jpg",
   },
 ];
 
